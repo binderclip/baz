@@ -1,2 +1,2 @@
-github.com/binderclip/go-qux v0.1.0 h1:hJyi3oWUQQ9shWUFiHYW6bnZFGM/Lruf5gMUk4KiYKo=
-github.com/binderclip/go-qux v0.1.0/go.mod h1:cwo7RbDu8IS9N/p1XVm+QgEZktiBa6cmap4QyN7kpqo=
+github.com/binderclip/go-qux/v2 v2.2.0 h1:S3r0Uh3klPiMTW6Y1kLs5q/fVCuYVpUCNUvJ5Oi7lno=
+github.com/binderclip/go-qux/v2 v2.2.0/go.mod h1:K/ruPZVlT7VWoIj2CJL1EM0FoqLXkHvg8PR9ocua+Yc=
